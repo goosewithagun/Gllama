@@ -1,0 +1,24 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Ollama Chat"
+config/description="A Godot chatbot frontend for Ollama with model selection and context editing."
+run/main_scene="res://scenes/Main.tscn"
+config/features=PackedStringArray("4.5", "Forward Plus")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1100
+window/size/viewport_height=860
+window/size/min_width=900
+window/size/min_height=700
