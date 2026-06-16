@@ -1,1 +1,0 @@
-Place ollama.exe here. See README.md for download instructions.
