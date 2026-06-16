@@ -1,4 +1,4 @@
-# Gllama (self-contained Windows app)
+# Ollama Chat — Godot 4  (self-contained Windows app)
 
 A Godot 4 chatbot frontend that **bundles and manages Ollama internally**.
 No separate Ollama installation required on the end-user's machine.
